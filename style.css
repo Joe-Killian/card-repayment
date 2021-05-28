@@ -17,7 +17,7 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: rgb(207, 207, 207);
-    width: 80%;
+    min-width: 80%;
     margin: 20vh;
     border-radius: 5%;
     box-shadow: 5px 5px;
@@ -27,7 +27,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-width: 50%;
+    min-width: 80%;
     text-align: center;
     height: 5vh;
     
@@ -44,7 +44,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-width: 20%;
+    min-width: 50%;
     text-align: center;
     height: 5vh;
     border: 1px solid black;
@@ -54,7 +54,7 @@ body {
 }
 .clearbut {
     border-radius: 10px;
-    width: 20%;
+    width: 50%;
     height: 3vh;
     margin-top: 1vh;
 }
